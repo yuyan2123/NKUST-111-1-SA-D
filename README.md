@@ -17,9 +17,9 @@ print(a+b)
 
 ***
 # 實作題
-Emphasis, aka italics, with *asterisks* or *underscores*.
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-Combined emphasis with **asterisks and underscores**.
+Emphasis, aka italics, with *asterisks* or *underscores*.  
+Strong emphasis, aka bold, with **asterisks** or **underscores**.  
+Combined emphasis with **asterisks and underscores**.  
 Strikethrough uses two tildes. ~~Scratch this~~.
 ***
 1. First ordered list item
@@ -63,9 +63,9 @@ Cololns can be used to align columns.
 |col 2 is|centered|$12|
 |zebra stripes|are|$1|
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
+There must be at least 3 dashes separating each header cell.  
+The outer pipes (|) are optional, and you don't need to make the  
+raw Markdown line up prettily. You can also use inline Markdown.  
 |**Markdown**|**Less**|**Pretty**|
 |:-----------|:----------:|----------:|
 |*Still*|`renders`|**nicely**|
